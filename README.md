@@ -1,3 +1,3 @@
 # Hello-World
-This is a example to show how to use github.
-Add the second line of readme.
+This is an example to show how to use github.
+This is the second line of readme.
